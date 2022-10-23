@@ -149,15 +149,15 @@ global.author = '                「 RCBOTZ あ」'
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://i.ibb.co/b5BH3Js/20221023-131510.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.ibb.co/b5BH3Js/20221023-131510.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/b5BH3Js/20221023-131510.jpg'
+global.giflogo = 'https://i.ibb.co/b5BH3Js/20221023-131510.jpg'
+global.thumbs = ['https://i.ibb.co/b5BH3Js/20221023-131510.jpg']
+global.fla = 'https://i.ibb.co/b5BH3Js/20221023-131510.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
