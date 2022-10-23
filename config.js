@@ -29,7 +29,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     let wibm = moment.tz('Asia/Jakarta').format('mm')
     let wibs = moment.tz('Asia/Jakarta').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
-    
+   
     let d = new Date(new Date + 3600000)
     let locale = 'id'
     // d.getTimeZoneOffset()
@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = '-' // ig
+global.sig = 'www.instagram.com/rfahmdnraf' // ig
 global.sgh = '-' // github
 global.sgc = '-' // group whatsapp
 global.sdc = '-'//discord
-global.snh = '-' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/UCsQmj-xFrqDTq8SPizpkAaw' // my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081214557752' //dana
-global.povo = '-' //ovo
+global.pdana = '08988351529' //dana
+global.povo = '08988351529' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '081214557752' //telkomsel
-global.ppulsa2 = '081214557752' // kalau ada kartu lain isi aja
+global.ppulsa = '08588351529' //M3
+global.ppulsa2 = '089509699274' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+1 714 930-8862'
-global.nomorown = '6281214557752'
-global.namebot = 'KENZO-BOTZ'
-global.nameown = 'ADAM'
+global.nomorbot = '6285892985358'
+global.nomorown = '628988351529'
+global.namebot = 'RC BOTZ'
+global.nameown = 'REFACHOCO'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -84,7 +84,7 @@ global . lolkey  =  'e54205a4ca2caa368cc067bb'  // PUNYA WAHID 8e66d0934cf741bfd
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281214557752', 'ADAM', true],
+  ['628988351529', 'RefaChoco', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KENZO-BOTZ-V4 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KENZO-BOTZ-V4 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KENZO-BOTZ-V4 '
+global.wm = '                「 RCBOTZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RCBOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ RCBOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ADAM`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Rfahmdnraf`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 KENZO-BOTZ-V4 あ」'
+global.author = '                「 RCBOTZ あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
