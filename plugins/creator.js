@@ -5,10 +5,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
+  let nowner = `${08988351529.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ @${nomorown.split`@`[0]} ✦
-------- ${nameown} -------
+✦ @${08988351529.split`@`[0]} ✦
+------- ${rfahmdnraf} -------
 
 📮 *Note:*
 • Owner tidak menerima save contact
